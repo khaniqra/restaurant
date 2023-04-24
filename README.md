@@ -28,4 +28,3 @@ The webpage features the table booking form of a restaurant, where you can selec
 Clone the project
 
 git clone https://github.com/khaniqra/restaurant.git
-
