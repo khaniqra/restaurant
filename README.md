@@ -12,7 +12,7 @@ The webpage helps to book table for a restaurant
 
 ## Description
 
-The webpage features the table booking form of a restaurant, where you can select the day & timimg of your meal. You need to specify youy full name, phone number **(mandatory)** which should be 10 digits only and no of persons **(mandatory)** to book the table.
+The webpage features the table booking form of a restaurant, where you can select the day & timing of your meal. You need to specify youy full name, phone number **(mandatory)** which should be 10 digits only and no of persons **(mandatory)** to book the table.
 
 ## Author
 
